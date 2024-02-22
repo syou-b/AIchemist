@@ -14,3 +14,4 @@
 | 8️⃣ | [텍스트 분석](https://www.notion.so/920619b2e4904d4bbb2e598afab871cd?pvs=21) | [ch8_womens_ecommerce_clothing_reviews.ipynb](https://github.com/syou-b/AIchemist/blob/5c26c2c71c429c08e8f24ff042b87aa64399b9be/exercise/ch8_womens_ecommerce_clothing_reviews.ipynb), [ch8_기후기술분류.ipynb](https://github.com/syou-b/AIchemist/blob/5c26c2c71c429c08e8f24ff042b87aa64399b9be/exercise/ch8_%E1%84%80%E1%85%B5%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2.ipynb) |
 
 ## ❤️‍🩹 AIDeaton
+[Heart Attack Analysis & Prediction](https://github.com/syou-b/AIchemist/tree/b62430b40057914da1463c6ba5e16fc3da4d836a/AIDeaton)
